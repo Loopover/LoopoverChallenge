@@ -2,7 +2,7 @@
 
 1. What the heck is the Loopover Challenge?
 
-Given a loopover board, find a (relatively) short sequence of moves needed to solve the board. Considering that it's probably NP-Complete, so the aim of this challenge is optimisation.
+Given a loopover board, find a (relatively) short sequence of moves needed to solve the board. Considering that it's probably NP-Complete, the aim of this challenge is optimisation.
 
 2. How do I participate? 
 
