@@ -1,5 +1,5 @@
 """
-Loopover self._bd simulator that evaluates moves in Programmer Notation
+Loopover board simulator that evaluates moves in Programmer Notation
 
 This file is a more object-oriented version of evaluator.py.
 
